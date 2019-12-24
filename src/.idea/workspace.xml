@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1de8c41d-a811-4df7-a11e-be839bf7148a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3RHdHmTCUHIKNPTogKFGgWkKp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="99" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="waibao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="99" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/waibao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.waibao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de8c41d-a811-4df7-a11e-be839bf7148a" name="Default Changelist" comment="" />
+      <created>1576479710169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576479710169</updated>
+      <workItem from="1576479741094" duration="4588000" />
+      <workItem from="1576545015878" duration="2476000" />
+      <workItem from="1576924031717" duration="2518000" />
+      <workItem from="1576929143740" duration="19064000" />
+      <workItem from="1577002170969" duration="3486000" />
+      <workItem from="1577099357190" duration="2892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="914" height="329" key="GridCell.Tab.0.bottom" timestamp="1577146677221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="370" key="GridCell.Tab.0.bottom/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576938054609" />
+    <state width="914" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1577146677221" />
+    <state width="914" height="329" key="GridCell.Tab.0.center" timestamp="1577146677221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="370" key="GridCell.Tab.0.center/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576938054609" />
+    <state width="914" height="329" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1577146677221" />
+    <state width="914" height="329" key="GridCell.Tab.0.left" timestamp="1577146677221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="370" key="GridCell.Tab.0.left/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576938054609" />
+    <state width="914" height="329" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1577146677221" />
+    <state width="914" height="329" key="GridCell.Tab.0.right" timestamp="1577146677221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="370" key="GridCell.Tab.0.right/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576938054609" />
+    <state width="914" height="329" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577146677221" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom" timestamp="1576991069242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576937941501" />
+    <state width="1340" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576991069242" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center" timestamp="1576991069241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576937941501" />
+    <state width="1340" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576991069241" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left" timestamp="1576991069241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576937941501" />
+    <state width="1340" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576991069241" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right" timestamp="1576991069242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576937941501" />
+    <state width="1340" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576991069242" />
+    <state x="534" y="320" key="SettingsEditor" timestamp="1577002248797">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-998" y="150" key="SettingsEditor/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576924679489" />
+    <state x="534" y="320" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577002248797" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577099446657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-2560.-360.2560.1400@0.0.1920.1040" timestamp="1576929143205" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577099446657" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1576983254708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576983254708" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/99$main.coverage" NAME="main Coverage Results" MODIFIED="1576991023905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/waibao$main.coverage" NAME="main Coverage Results" MODIFIED="1577119608991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/99$waibao.coverage" NAME="waibao Coverage Results" MODIFIED="1576934083382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
